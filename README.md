@@ -14,7 +14,7 @@ A command-line calculator built using Python.
 - VS Code
 
 ## ▶ How to Run
-python calculator.py
+python Simple-Calculator.py
 
 ## 📷 Output
 Displays results in terminal.
